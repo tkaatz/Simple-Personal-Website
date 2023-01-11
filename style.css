@@ -1,0 +1,46 @@
+/*Nav heading style*/
+header {
+  background: black;
+  overflow: hidden;
+}
+
+header a {
+  color: white;
+  text-decoration: none;
+  font-size: 24px;
+  float: left;
+  padding: 24px;
+}
+
+.activenav {
+  background: green;
+}
+
+header a:hover {
+  background-color: #727272;
+}
+
+/*Page style*/
+body {
+  background: lightgray;
+}
+
+.pageinfo {
+  text-align: center
+}
+
+.profileimage {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  border: 4px solid white;
+  display: block;
+  margin-top: 2.5%;
+  margin-left: auto;
+  margin-right: auto; 
+}
+
+p {
+  font-size: 18px;
+}
+
