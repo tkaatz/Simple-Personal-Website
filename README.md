@@ -3,6 +3,8 @@
 A simple website written in HTML and CSS.
 
 The website can be accessed [here](https://tkaatz.github.io/Personal_Website/).
+
+# Screenshot
 ![screenshot of website](images/readme_screenshot.jpg)
 
 # Summary
